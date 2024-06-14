@@ -1,7 +1,7 @@
 public class App {
 
     public static void main(String[] args) {
-        int nota = 8;
+        int nota = 9;
 
         String resultado = nota >= 7 ? "Aprovado" : "Reprovado";
 
